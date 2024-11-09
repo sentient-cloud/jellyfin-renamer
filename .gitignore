@@ -1,0 +1,7 @@
+shows/
+.tmdb-api-key
+*.cache.pickle
+argparse_test.py
+out.txt
+output.txt
+.venv/
